@@ -1,59 +1,40 @@
 ### Hi everyone 🤘🏼
 
-<!--
-**matthwsd/matthwsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 - I'm currently working at [Fëng](https://fengbrasil.com.br)
 - I'm studying Psychology while I still as fullstack developer *(and i'll be forever)*
-- S.O.L.I.D lover
+- Music Lover <3
+- Coffer Adorer ☕
+- S.O.L.I.D & [BEM](http://getbem.com/introduction/) practitioner
 
 #### Knowledgments
-
-Fluency:
 - 🖤 C#
 - 🐍 Python 
 - 🥰 Typescript
 - 🖥️ Js
-
-Intermediary:
 - Something in PHP
 - A little bit of Java
-
-👶
-- Delphi
-- Dart
-- Lua
+- On little thing in Delphi
+- tryin' Dart
+- Lua as hobby
+- HTML
+- CSS, SCSS, SASS 
 
 Frameworks, because they are incredible: 
 - Angular from JS to the infinity and beyond!
 - Ionic 2+
 - Electron
-- Bootstrap
 - .NET Core
 - .NET
-- & studying React
-
-Other things that are necessary:
-- SQL
-- NoSQL (MongoDB)
-- Docker
-- Linux
-- MySql
-- Postgre
-
+- & studying React, Flutter
 
 *and it's the end... for now*
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mattheus-alberto-784132144/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5521983080946&text=Ol%C3%A1%20Mattheus!%20" alt="WhatsApp">
+    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5521983080946&text=Ol%C3%A1%20Mattheus!%20"/>
+  </a>
+</p>
 
