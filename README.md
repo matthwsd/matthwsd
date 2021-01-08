@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 Fluency:
 - 🖤 C#
--- 🐍 Python 
--- 🥰 Typescript
--- 🖥️ Js
+- 🐍 Python 
+- 🥰 Typescript
+- 🖥️ Js
 
 Intermediary:
 - Something in PHP
