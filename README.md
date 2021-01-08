@@ -38,7 +38,7 @@ Intermediary:
 - Lua
 
 Frameworks, because they are incredible: 
-- Angular
+- Angular from JS to the infinity and beyond!
 - Ionic 2+
 - Electron
 - Bootstrap
@@ -53,8 +53,6 @@ Other things that are necessary:
 - Linux
 - MySql
 - Postgre
-- AWS (3;10)
-- Azure (3;10)
 
 
 *and it's the end... for now*
