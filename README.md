@@ -13,7 +13,7 @@
 - 🖥️ Js
 - Something in PHP
 - A little bit of Java
-- On little thing in Delphi
+- A little thing in Delphi
 - tryin' Dart
 - Lua as hobby
 - HTML
