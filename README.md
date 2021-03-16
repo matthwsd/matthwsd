@@ -30,7 +30,7 @@ Frameworks, because they are incredible:
 *and it's the end... for now*
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mattheus-alberto-784132144/">
+  <a href="https://www.linkedin.com/in/mattheus-alberto/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://api.whatsapp.com/send?phone=5521983080946&text=Ol%C3%A1%20Mattheus!%20" alt="WhatsApp">
