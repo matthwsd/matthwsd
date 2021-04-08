@@ -1,6 +1,6 @@
 ### Hi everyone 🤘🏼
 
-- I'm currently working at [Fëng](https://fengbrasil.com.br)
+- I'm currently working at [Rabbot](https://rabbot.co)
 - I'm studying Psychology while I still as fullstack developer *(and i'll be forever)*
 - Music Lover <3
 - Coffer Adorer ☕
