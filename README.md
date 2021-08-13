@@ -3,7 +3,7 @@
 - I'm currently working at [Itaú-Unibanco](https://www.itau.com.br/)
 - I'm studying Psychology while I still as fullstack developer *(and i'll be forever)*
 - Music Lover <3
-- Coffer Adorer ☕
+- Coffee Adorer ☕
 - S.O.L.I.D & [BEM](http://getbem.com/introduction/) practitioner
 
 #### Knowledgments
