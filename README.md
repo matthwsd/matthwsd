@@ -11,6 +11,7 @@
 - 🐍 Python 
 - 🥰 Typescript
 - 🖥️ Js
+- If I Could, I'd be a Angular Evangelist. I really love this framework. 
 - Something in PHP
 - A little bit of Java
 - A little thing in Delphi
