@@ -6,7 +6,7 @@
 - Coffee Enthusiast ☕
 - S.O.L.I.D & [BEM](http://getbem.com/introduction/) practitioner
 
-#### Knowledgments
+#### Skills
 - 🖤 C#
 - 🐍 Python 
 - 🥰 Typescript
